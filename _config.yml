@@ -4,7 +4,7 @@ header-img: "img/facebook.jpg"
 tagline: "cn"  
 description: "yyqyu world"  
 baseurl: ""
-url: "http://zyphs21.github.io"  
+url: "http://yyqyu.github.io"  
 
 # About/contact
 owner: 
@@ -17,11 +17,11 @@ gavatar: http://dreamofbook.qiniudn.com/Az..png
 favicon: img/favicon.png
 
 douban_username:  
-twitter_username: 
+twitter_username:yywyu 
 github_username: yyqyu
 weibo_username: 我有快乐
-facebook_username:
-zhihu_username: yyqyu
+facebook_username:yangyongqiang0604
+zhihu_username: yyqyu640352
 
 # Build settings  
 # use Github Flavored Markdown !important  
