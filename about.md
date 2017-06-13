@@ -21,6 +21,7 @@ header-img: "img/green.jpg"
 *   本科/中国民航飞行学院
 *   技术博客: <http://fltops.cn>
 *   Github: <https://github.com/yyqyu>
-*   目前就职于：UTP
+*   目前就职于：UTP
+*   职业：签派
 
 * * *
