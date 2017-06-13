@@ -1,4 +1,5 @@
 http://www.aviationweather.gov/metar?gis=off
+
 可查询历史报文的哦—–下面这个
 http://www.ogimet.com/metars.phtml.en
 
