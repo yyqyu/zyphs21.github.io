@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "milestone"
-description: "Life is yyqyu"
+description: "Life of yyqyu"
 header-img: "img/zhihu.jpg"
 ---
 
