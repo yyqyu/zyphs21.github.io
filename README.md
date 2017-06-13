@@ -1,9 +1,9 @@
 
 ##说明
 
-此博客 fork 自 [zyuanming](https://github.com/zyuanming/zyuanming.github.io)，感谢。
+此博客 fork 自 [yyq](https://github.com/yyqyu/yyqyu.github.io)，感谢。
 
-This is fork from [zyuanming](https://github.com/zyuanming/zyuanming.github.io). Thanks.
+This is fork from [yyqyu](https://github.com/yyqyu/yyqyu.github.io). Thanks.
 
 ##License
 
