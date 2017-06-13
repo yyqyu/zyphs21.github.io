@@ -2,7 +2,7 @@
 title: Hanson
 header-img: "img/facebook.jpg"
 tagline: "cn"  
-description: "yyqyu world"  
+description: "yyqyu’s world"  
 baseurl: ""
 url: "http://yyqyu.github.io"  
 
@@ -21,7 +21,7 @@ twitter_username:yywyu
 github_username: yyqyu
 weibo_username: 我有快乐
 facebook_username:yangyongqiang0604
-zhihu_username: yyqyu640352
+zhihu_username: yang-yq
 
 # Build settings  
 # use Github Flavored Markdown !important  
